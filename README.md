@@ -7,7 +7,7 @@ climate analysis and data exploration of a climate database. The following analy
 
     Designed a query to find the most active stations.
     
-     Designed a query to retrieve the last 12 months of temperature observation data
+    Designed a query to retrieve the last 12 months of temperature observation data
 
 Flask API
 
@@ -16,5 +16,5 @@ Flask API
     
     Converted the query results to a Dictionary using `date` as the key and `prcp` as the value.
    
-    Return a JSON list of the minimum temperature, the average temperature, and the max temperature for a given start or   
+    Returned a JSON list of the minimum temperature, the average temperature, and the max temperature for a given start or   
     start-end range.
